@@ -1,0 +1,8 @@
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic.Tests\bin\Debug\purely-pragmatic.Tests.dll.config
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic.Tests\bin\Debug\purely-pragmatic.Tests.dll
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic.Tests\bin\Debug\purely-pragmatic.Tests.pdb
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic.Tests\bin\Debug\purely-pragmatic.dll
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic.Tests\bin\Debug\purely-pragmatic.pdb
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic.Tests\obj\Debug\purely-pragmatic.Tests.dll
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic.Tests\obj\Debug\purely-pragmatic.Tests.pdb

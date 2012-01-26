@@ -1,0 +1,7 @@
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic\bin\purely-pragmatic.dll
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic\bin\purely-pragmatic.pdb
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic\bin\EntityFramework.dll
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic\bin\EntityFramework.xml
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic\obj\Debug\purely-pragmatic.dll
+C:\Users\pat\purely-pragmatic\purely-pragmatic\purely-pragmatic\obj\Debug\purely-pragmatic.pdb
